@@ -1,0 +1,6 @@
+pyqt5
+pyqtgraph
+numpy
+pyserial
+bleak
+openpyxl
